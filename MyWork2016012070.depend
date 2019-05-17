@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1557193074 source:d:\_codeblocksproject\mywork2016012070\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1558065370 source:d:\_codeblocksproject\mywork2016012070\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<cmath>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
